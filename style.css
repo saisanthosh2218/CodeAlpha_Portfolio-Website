@@ -1118,10 +1118,6 @@ video {
     display: grid;
   }
 
-  .md\:hidden {
-    display: none;
-  }
-
   .md\:h-16 {
     height: 4rem;
   }
