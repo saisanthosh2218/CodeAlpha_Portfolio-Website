@@ -1,11 +1,11 @@
 # Personal Portfolio Website (CodeAlpha Assessment)
  Personal Portfolio Website Containing the Information about me and My Skills along with my Projects done with Live Link
 ## Features
-- **About Me:** 
+- **About Me** 
 
-- **Skills:** 
+- **Skills** 
 
-- **Projects Done:** 
+- **Projects Done** 
 
 ## Live Link
 
