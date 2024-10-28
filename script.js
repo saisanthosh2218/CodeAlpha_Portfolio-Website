@@ -16,16 +16,16 @@ window.onload = function () {
 gsap.from("#Logo", {
   opacity: 0,
   y: -20,
-  duration: 0.7,
+  duration: 0.5,
   delay: 1,
 });
 
 gsap.from("#Links a", {
   opacity: 0,
   y: -20,
-  duration: 0.7,
-  delay: 2,
-  stagger: 0.7,
+  duration: 0.5,
+  delay: 1,
+  stagger: 0.5,
 });
 
 gsap.from("#Home-Text-2", {
