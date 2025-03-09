@@ -25,20 +25,20 @@ gsap.from("#Links a", {
   y: -20,
   duration: 0.5,
   delay: 1,
-  stagger: 0.5,
+  // stagger: 0.5,
 });
 
 gsap.from("#Home-Text-2", {
   opacity: 0,
   x: -200,
-  duration: 0.7,
-  delay: 5,
+  duration: 0.5,
+  delay: 1.8,
 });
 gsap.from("#Home-Image", {
   opacity: 0,
   x: -200,
-  duration: 0.7,
-  delay: 6,
+  duration: 0.5,
+  delay: 1.8,
   zIndex: 1,
 });
 
